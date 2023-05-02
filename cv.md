@@ -1,8 +1,8 @@
-##DIYOR
+## DIYOR
 
-####Frontend developer
+#### Frontend DEV
 
-###### skills
+###### skill
 
 * HTML
 * CSS
